@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Keep Token Alive Chameleon
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Token expires after 1 hour, so refresh the page once every (bit under an hour)
 // @author       Naara
 // @include      http://192.168.0.111:9000/*
