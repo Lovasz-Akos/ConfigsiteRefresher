@@ -15,7 +15,5 @@
 
 (function() {
     'use strict';
-
-    // Your code here...
     setTimeout(function(){ location.reload(); }, 3500*1000);
 })();
